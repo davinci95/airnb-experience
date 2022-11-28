@@ -10,8 +10,8 @@ export default function App() {
    });
    return (
       <div>
-         <Hero />
          <Navbar />
+         <Hero />
          <section className="card-list">{cardData}</section>
       </div>
    );
