@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/airnb-experience/static/css/main.ab99eceb.css",
+    "main.css": "/airnb-experience/static/css/main.2c06e523.css",
     "main.js": "/airnb-experience/static/js/main.8c0937c6.js",
     "index.html": "/airnb-experience/index.html",
-    "main.ab99eceb.css.map": "/airnb-experience/static/css/main.ab99eceb.css.map",
+    "main.2c06e523.css.map": "/airnb-experience/static/css/main.2c06e523.css.map",
     "main.8c0937c6.js.map": "/airnb-experience/static/js/main.8c0937c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab99eceb.css",
+    "static/css/main.2c06e523.css",
     "static/js/main.8c0937c6.js"
   ]
 }
